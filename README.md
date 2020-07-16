@@ -1,6 +1,7 @@
-# AMMI
+# Linear Quadratic  Regulators (AMMI-Ghana)
 
-This is a presentation on Linear Quadratic  Regulators
+This is a presentation on Linear Quadratic  Regulators:
+
 
 * A linear quadratic problem is a problem where the system dynamics
 are described by a set of linear differential equations and the cost is
