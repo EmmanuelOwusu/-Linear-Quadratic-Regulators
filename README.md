@@ -2,6 +2,10 @@
 
 This is a presentation on Linear Quadratic  Regulators:
 
+This was presented to students at the African Masters in Machine Intelligence.
+
+
+[1. LQR]
 
 * A linear quadratic problem is a problem where the system dynamics
 are described by a set of linear differential equations and the cost is
