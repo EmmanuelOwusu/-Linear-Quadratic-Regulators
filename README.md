@@ -1,4 +1,5 @@
-# AMMI-PERSONAL-PRESENTARION
+# AMMI
+
 This is a presentation on Linear Quadratic  Regulators
 
 * A linear quadratic problem is a problem where the system dynamics
