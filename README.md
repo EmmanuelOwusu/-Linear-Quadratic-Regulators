@@ -1,6 +1,6 @@
 # Linear Quadratic  Regulators (AMMI-Ghana)
 
-This repository is a presentation on Linear Quadratic  Regulators:
+This repository contains  a presentation on Linear Quadratic  Regulators:
 
 This was presented to students at the African Masters in Machine Intelligence.
 
